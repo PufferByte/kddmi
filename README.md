@@ -2,5 +2,5 @@
 
 ## Links
 
-- Blog: https://pufferbyte.github.io/kddmi/
+- Blog: https://pufferbyte.github.io/kdd26mi/
 - paper: https://arxiv.org/pdf/2606.01602
